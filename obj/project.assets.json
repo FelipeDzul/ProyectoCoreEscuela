@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Felipe Dzul\\Documents\\PROYECTOS\\CoreEscuela\\Etapas\\Etapa1.csproj",
-      "projectName": "Etapa1",
-      "projectPath": "C:\\Users\\Felipe Dzul\\Documents\\PROYECTOS\\CoreEscuela\\Etapas\\Etapa1.csproj",
+      "projectUniqueName": "C:\\Users\\Felipe Dzul\\Documents\\PROYECTOS\\CoreEscuela\\Etapas\\Etapas.csproj",
+      "projectName": "Etapas",
+      "projectPath": "C:\\Users\\Felipe Dzul\\Documents\\PROYECTOS\\CoreEscuela\\Etapas\\Etapas.csproj",
       "packagesPath": "C:\\Users\\Felipe Dzul\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Felipe Dzul\\Documents\\PROYECTOS\\CoreEscuela\\Etapas\\obj\\",
       "projectStyle": "PackageReference",

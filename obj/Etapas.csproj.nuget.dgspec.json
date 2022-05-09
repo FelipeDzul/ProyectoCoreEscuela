@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Felipe Dzul\\Documents\\PROYECTOS\\CoreEscuela\\Etapa1\\Etapas.csproj": {}
+    "C:\\Users\\Felipe Dzul\\Documents\\PROYECTOS\\CoreEscuela\\Etapas\\Etapas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Felipe Dzul\\Documents\\PROYECTOS\\CoreEscuela\\Etapa1\\Etapas.csproj": {
+    "C:\\Users\\Felipe Dzul\\Documents\\PROYECTOS\\CoreEscuela\\Etapas\\Etapas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Felipe Dzul\\Documents\\PROYECTOS\\CoreEscuela\\Etapa1\\Etapas.csproj",
+        "projectUniqueName": "C:\\Users\\Felipe Dzul\\Documents\\PROYECTOS\\CoreEscuela\\Etapas\\Etapas.csproj",
         "projectName": "Etapas",
-        "projectPath": "C:\\Users\\Felipe Dzul\\Documents\\PROYECTOS\\CoreEscuela\\Etapa1\\Etapas.csproj",
+        "projectPath": "C:\\Users\\Felipe Dzul\\Documents\\PROYECTOS\\CoreEscuela\\Etapas\\Etapas.csproj",
         "packagesPath": "C:\\Users\\Felipe Dzul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Felipe Dzul\\Documents\\PROYECTOS\\CoreEscuela\\Etapa1\\obj\\",
+        "outputPath": "C:\\Users\\Felipe Dzul\\Documents\\PROYECTOS\\CoreEscuela\\Etapas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
